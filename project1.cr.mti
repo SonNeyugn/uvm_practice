@@ -1,0 +1,15 @@
+/home/srss.ivcs/nguyens/training/top.sv {1 {vlog -work work -vopt -sv -stats=none /home/srss.ivcs/nguyens/training/top.sv
+QuestaSim vlog 10.7e_2 Compiler 2019.12 Dec  2 2019
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} /home/srss.ivcs/nguyens/training/DUT.sv {1 {vlog -work work -vopt -sv -stats=none /home/srss.ivcs/nguyens/training/DUT.sv
+QuestaSim vlog 10.7e_2 Compiler 2019.12 Dec  2 2019
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}}

@@ -1,0 +1,31 @@
+/home/srss.ivcs/nguyens/training/lab5/counter_test.svh {0 {vlog -work mtiUvm -vopt -sv -stats=none /home/srss.ivcs/nguyens/training/lab5/counter_test.svh
+QuestaSim vlog 10.7e_2 Compiler 2019.12 Dec  2 2019
+** Error (suppressible): (vlog-19) Failed to access library 'work' at "/opt/cyapps/apps/mentor/questasim_10.7e_2/questasim/uvm-1.1d".
+Permission denied. (errno = EACCES)
+Verilog Compiler exiting
+
+} {} {}} /home/srss.ivcs/nguyens/training/lab5/top.sv {0 {vlog -work mtiUvm -vopt -sv -stats=none /home/srss.ivcs/nguyens/training/lab5/top.sv
+QuestaSim vlog 10.7e_2 Compiler 2019.12 Dec  2 2019
+** Error (suppressible): (vlog-19) Failed to access library 'work' at "/opt/cyapps/apps/mentor/questasim_10.7e_2/questasim/uvm-1.1d".
+Permission denied. (errno = EACCES)
+Verilog Compiler exiting
+
+} {} {}} /home/srss.ivcs/nguyens/training/lab5/counter.sv {0 {vlog -work mtiUvm -vopt -sv -stats=none /home/srss.ivcs/nguyens/training/lab5/counter.sv
+QuestaSim vlog 10.7e_2 Compiler 2019.12 Dec  2 2019
+** Error (suppressible): (vlog-19) Failed to access library 'work' at "/opt/cyapps/apps/mentor/questasim_10.7e_2/questasim/uvm-1.1d".
+Permission denied. (errno = EACCES)
+Verilog Compiler exiting
+
+} {} {}} /home/srss.ivcs/nguyens/training/lab5/counter_pkg.sv {0 {vlog -work mtiUvm -vopt -sv -stats=none /home/srss.ivcs/nguyens/training/lab5/counter_pkg.sv
+QuestaSim vlog 10.7e_2 Compiler 2019.12 Dec  2 2019
+** Error (suppressible): (vlog-19) Failed to access library 'work' at "/opt/cyapps/apps/mentor/questasim_10.7e_2/questasim/uvm-1.1d".
+Permission denied. (errno = EACCES)
+Verilog Compiler exiting
+
+} {} {}} /home/srss.ivcs/nguyens/training/lab5/counter_if.sv {0 {vlog -work mtiUvm -vopt -sv -stats=none /home/srss.ivcs/nguyens/training/lab5/counter_if.sv
+QuestaSim vlog 10.7e_2 Compiler 2019.12 Dec  2 2019
+** Error (suppressible): (vlog-19) Failed to access library 'work' at "/opt/cyapps/apps/mentor/questasim_10.7e_2/questasim/uvm-1.1d".
+Permission denied. (errno = EACCES)
+Verilog Compiler exiting
+
+} {} {}}

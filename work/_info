@@ -1,0 +1,126 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/srss.ivcs/nguyens/training
+T_opt
+!s110 1675372935
+VfJ1d1z6`0I6odUbPHh5E:2
+04 3 4 work top fast 0
+=1-78ac4422b50f-63dc2987-10e7d-3b014
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OE;O;10.7e_2;67
+R0
+T_opt1
+!s110 1675373960
+V>58m_?Q:K1]`gdiYP9=Kc3
+04 2 4 work tb fast 0
+=1-78ac4422b50f-63dc2d88-54641-3ddb2
+R1
+R2
+n@_opt1
+R3
+vcounter
+Z4 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z5 !s110 1675373061
+!i10b 1
+!s100 liHbKNb:o1DIJH@6Qd9Fn3
+IMPe1XlLkmLgH_NlIUFV200
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+!i119 1
+!s105 DUT_sv_unit
+S1
+R0
+w1675371112
+8DUT.sv
+FDUT.sv
+L0 2
+Z7 OE;L;10.7e_2;67
+r1
+!s85 0
+31
+Z8 !s108 1675373061.000000
+!s107 DUT.sv|
+!s90 -reportprogress|300|DUT.sv|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vdff
+R4
+Z10 !s110 1675373945
+!i10b 1
+!s100 JUe]UVIBARDAD1:nQE6k_1
+Ii[ak3=hi=j6?S3EIb^>Nz3
+R6
+!s105 design_sv_unit
+S1
+R0
+w1675373758
+8/home/srss.ivcs/nguyens/training/design.sv
+F/home/srss.ivcs/nguyens/training/design.sv
+L0 1
+R7
+r1
+!s85 0
+31
+Z11 !s108 1675373945.000000
+!s107 /home/srss.ivcs/nguyens/training/design.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/srss.ivcs/nguyens/training/design.sv|
+!i113 0
+Z12 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vtb
+R4
+R10
+!i10b 1
+!s100 3lechS`a4aRzzF@R=6SjV0
+I[^BgXKW3[Ih;6m?J_Rzzh1
+R6
+!s105 testbench_sv_unit
+S1
+R0
+w1675373923
+8/home/srss.ivcs/nguyens/training/testbench.sv
+F/home/srss.ivcs/nguyens/training/testbench.sv
+L0 1
+R7
+r1
+!s85 0
+31
+R11
+!s107 /home/srss.ivcs/nguyens/training/testbench.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/srss.ivcs/nguyens/training/testbench.sv|
+!i113 0
+R12
+R2
+vtop
+R4
+R5
+!i10b 1
+!s100 CV54i[@^mWIcO4ZRI@fZc3
+I:a12dVhV<I94Oc[X9X^_b0
+R6
+!s105 top_sv_unit
+S1
+R0
+w1675372823
+8top.sv
+Ftop.sv
+L0 2
+R7
+r1
+!s85 0
+31
+R8
+!s107 top.sv|
+!s90 -reportprogress|300|top.sv|
+!i113 0
+R9
+R2

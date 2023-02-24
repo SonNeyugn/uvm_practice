@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/srss.ivcs/nguyens/training/lab3
+T_opt
+!s110 1676576325
+V0nWRU<?d0DLZS^g3Dg^]o3
+Z1 04 4 4 work test fast 0
+=1-78ac4422b444-63ee8645-bf942-36abd
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OE;O;10.7e_2;67
+T_opt1
+!s110 1676395468
+VkYEZK^[dh5g]H^:LERLb42
+R1
+=2-78ac4422b444-63ebc3cc-76249-2b331
+o-quiet -auto_acc_if_foreign -work work +acc=npr
+R2
+n@_opt1
+R3
+R0
+Xcovergroup_test_sv_unit
+Z4 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Vc<4fW8bYamlBEViIoz@7E0
+r1
+!s85 0
+!i10b 1
+!s100 ZPm9`=VfI_en?D3Vijhlc1
+Ic<4fW8bYamlBEViIoz@7E0
+!i103 1
+S1
+Z5 d/home/srss.ivcs/nguyens/training/functional
+w1676571641
+Z6 8/home/srss.ivcs/nguyens/training/functional/covergroup_test.sv
+Z7 F/home/srss.ivcs/nguyens/training/functional/covergroup_test.sv
+L0 1
+Z8 OE;L;10.7e_2;67
+31
+!s108 1676571644.000000
+Z9 !s107 /home/srss.ivcs/nguyens/training/functional/covergroup_test.sv|
+Z10 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/srss.ivcs/nguyens/training/functional/covergroup_test.sv|
+!i113 0
+Z11 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vtest
+R4
+!s110 1676576322
+!i10b 1
+!s100 b8z^3QA;>4U[1@nm:0DmR3
+IhEdPh;mM_?nKPg?OE<QKN0
+VDg1SIo80bB@j0V0VzS_@n1
+!s105 covergroup_test_sv_unit
+S1
+R5
+w1676576313
+R6
+R7
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1676576322.000000
+R9
+R10
+!i113 0
+R11
+R2

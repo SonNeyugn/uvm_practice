@@ -1,0 +1,79 @@
+/home/srss.ivcs/nguyens/training/lab6/counter_if.sv {1 {vlog -work work -vopt -sv -stats=none /home/srss.ivcs/nguyens/training/lab6/counter_if.sv
+QuestaSim vlog 10.7e_2 Compiler 2019.12 Dec  2 2019
+-- Compiling interface counter_if
+
+Top level modules:
+	--none--
+
+} {} {}} /home/srss.ivcs/nguyens/training/lab6/agent_with_interface.svh {1 {vlog -work work -vopt -sv -stats=none /home/srss.ivcs/nguyens/training/lab6/agent_with_interface.svh
+QuestaSim vlog 10.7e_2 Compiler 2019.12 Dec  2 2019
+** Note: (vlog-2286) /home/srss.ivcs/nguyens/training/lab6/agent_with_interface.svh(3): Using implicit +incdir+/opt/cyapps/apps/mentor/questasim_10.7e_2/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} /home/srss.ivcs/nguyens/training/lab6/counter_test.svh {0 {vlog -work work -vopt -sv -stats=none /home/srss.ivcs/nguyens/training/lab6/counter_test.svh
+QuestaSim vlog 10.7e_2 Compiler 2019.12 Dec  2 2019
+** Note: (vlog-2286) /home/srss.ivcs/nguyens/training/lab6/counter_test.svh(1): Using implicit +incdir+/opt/cyapps/apps/mentor/questasim_10.7e_2/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+** Error: /home/srss.ivcs/nguyens/training/lab6/counter_test.svh(8): Invalid type 'counter_env'. Please check the type of the variable 'env'.
+** Error: /home/srss.ivcs/nguyens/training/lab6/counter_test.svh(21): (vlog-2730) Undefined variable: 'env'.
+** Error: /home/srss.ivcs/nguyens/training/lab6/counter_test.svh(21): (vlog-2164) Class or package 'counter_env' not found.
+** Error: /home/srss.ivcs/nguyens/training/lab6/counter_test.svh(21): (vlog-2730) Undefined variable: 'counter_env'.
+** Error: (vlog-13069) /home/srss.ivcs/nguyens/training/lab6/counter_test.svh(21): near "::": syntax error, unexpected ::, expecting ';'.
+
+} {4.0 9.0} {}} /home/srss.ivcs/nguyens/training/lab6/top.sv {2 {vlog -work work -vopt -sv -stats=none /home/srss.ivcs/nguyens/training/lab6/top.sv
+QuestaSim vlog 10.7e_2 Compiler 2019.12 Dec  2 2019
+** Warning: /home/srss.ivcs/nguyens/training/lab6/top.sv(1): (vlog-13233) Design unit "top_sv_unit" already exists and will be overwritten. Overwriting SystemVerilog $unit with different source files.
+-- Compiling package top_sv_unit
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package counter_pkg
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} /home/srss.ivcs/nguyens/training/lab6/quiet_test.svh {1 {vlog -work work -vopt -sv -stats=none /home/srss.ivcs/nguyens/training/lab6/quiet_test.svh
+QuestaSim vlog 10.7e_2 Compiler 2019.12 Dec  2 2019
+** Note: (vlog-2286) /home/srss.ivcs/nguyens/training/lab6/quiet_test.svh(1): Using implicit +incdir+/opt/cyapps/apps/mentor/questasim_10.7e_2/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} /home/srss.ivcs/nguyens/training/lab6/printer.svh {1 {vlog -work work -vopt -sv -stats=none /home/srss.ivcs/nguyens/training/lab6/printer.svh
+QuestaSim vlog 10.7e_2 Compiler 2019.12 Dec  2 2019
+** Note: (vlog-2286) /home/srss.ivcs/nguyens/training/lab6/printer.svh(2): Using implicit +incdir+/opt/cyapps/apps/mentor/questasim_10.7e_2/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} /home/srss.ivcs/nguyens/training/lab6/scoreboard.svh {1 {vlog -work work -vopt -sv -stats=none /home/srss.ivcs/nguyens/training/lab6/scoreboard.svh
+QuestaSim vlog 10.7e_2 Compiler 2019.12 Dec  2 2019
+** Note: (vlog-2286) /home/srss.ivcs/nguyens/training/lab6/scoreboard.svh(2): Using implicit +incdir+/opt/cyapps/apps/mentor/questasim_10.7e_2/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} /home/srss.ivcs/nguyens/training/lab6/driver.svh {1 {vlog -work work -vopt -sv -stats=none /home/srss.ivcs/nguyens/training/lab6/driver.svh
+QuestaSim vlog 10.7e_2 Compiler 2019.12 Dec  2 2019
+** Note: (vlog-2286) /home/srss.ivcs/nguyens/training/lab6/driver.svh(2): Using implicit +incdir+/opt/cyapps/apps/mentor/questasim_10.7e_2/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} /home/srss.ivcs/nguyens/training/lab6/counter.sv {1 {vlog -work work -vopt -sv -stats=none /home/srss.ivcs/nguyens/training/lab6/counter.sv
+QuestaSim vlog 10.7e_2 Compiler 2019.12 Dec  2 2019
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} /home/srss.ivcs/nguyens/training/lab6/counter_pkg.sv {1 {vlog -work work -vopt -sv -stats=none /home/srss.ivcs/nguyens/training/lab6/counter_pkg.sv
+QuestaSim vlog 10.7e_2 Compiler 2019.12 Dec  2 2019
+** Note: (vlog-2286) /home/srss.ivcs/nguyens/training/lab6/counter_pkg.sv(1): Using implicit +incdir+/opt/cyapps/apps/mentor/questasim_10.7e_2/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+-- Compiling package counter_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+
+Top level modules:
+	--none--
+
+} {} {}}

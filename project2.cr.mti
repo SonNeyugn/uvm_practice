@@ -1,0 +1,15 @@
+/home/srss.ivcs/nguyens/training/design.sv {1 {vlog -work work -vopt -sv -stats=none /home/srss.ivcs/nguyens/training/design.sv
+QuestaSim vlog 10.7e_2 Compiler 2019.12 Dec  2 2019
+-- Compiling module dff
+
+Top level modules:
+	dff
+
+} {} {}} /home/srss.ivcs/nguyens/training/testbench.sv {1 {vlog -work work -vopt -sv -stats=none /home/srss.ivcs/nguyens/training/testbench.sv
+QuestaSim vlog 10.7e_2 Compiler 2019.12 Dec  2 2019
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}}

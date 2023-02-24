@@ -1,0 +1,17 @@
+/home/srss.ivcs/nguyens/training/lab3/top.sv {2 {vlog -work work -vopt -sv -stats=none /home/srss.ivcs/nguyens/training/lab3/top.sv
+QuestaSim vlog 10.7e_2 Compiler 2019.12 Dec  2 2019
+** Warning: tester.svh(1): (vlog-13233) Design unit "top_sv_unit" already exists and will be overwritten. Overwriting SystemVerilog $unit with different source files.
+-- Compiling package top_sv_unit
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} /home/srss.ivcs/nguyens/training/lab3/counter.sv {1 {vlog -work work -vopt -sv -stats=none /home/srss.ivcs/nguyens/training/lab3/counter.sv
+QuestaSim vlog 10.7e_2 Compiler 2019.12 Dec  2 2019
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}}

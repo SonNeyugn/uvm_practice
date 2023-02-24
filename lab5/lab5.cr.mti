@@ -1,0 +1,42 @@
+/home/srss.ivcs/nguyens/training/lab5/counter_test.svh {1 {vlog -work work -vopt -sv -stats=none /home/srss.ivcs/nguyens/training/lab5/counter_test.svh
+QuestaSim vlog 10.7e_2 Compiler 2019.12 Dec  2 2019
+** Note: (vlog-2286) /home/srss.ivcs/nguyens/training/lab5/counter_test.svh(2): Using implicit +incdir+/opt/cyapps/apps/mentor/questasim_10.7e_2/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} /home/srss.ivcs/nguyens/training/lab5/top.sv {2 {vlog -work work -vopt -sv -stats=none /home/srss.ivcs/nguyens/training/lab5/top.sv
+QuestaSim vlog 10.7e_2 Compiler 2019.12 Dec  2 2019
+** Warning: /home/srss.ivcs/nguyens/training/lab5/top.sv(1): (vlog-13233) Design unit "top_sv_unit" already exists and will be overwritten. Overwriting SystemVerilog $unit with different source files.
+-- Compiling package top_sv_unit
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package counter_pkg
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} /home/srss.ivcs/nguyens/training/lab5/counter.sv {1 {vlog -work work -vopt -sv -stats=none /home/srss.ivcs/nguyens/training/lab5/counter.sv
+QuestaSim vlog 10.7e_2 Compiler 2019.12 Dec  2 2019
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} /home/srss.ivcs/nguyens/training/lab5/counter_pkg.sv {1 {vlog -work work -vopt -sv -stats=none /home/srss.ivcs/nguyens/training/lab5/counter_pkg.sv
+QuestaSim vlog 10.7e_2 Compiler 2019.12 Dec  2 2019
+** Note: (vlog-2286) /home/srss.ivcs/nguyens/training/lab5/counter_pkg.sv(1): Using implicit +incdir+/opt/cyapps/apps/mentor/questasim_10.7e_2/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+-- Compiling package counter_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+
+Top level modules:
+	--none--
+
+} {} {}} /home/srss.ivcs/nguyens/training/lab5/counter_if.sv {1 {vlog -work work -vopt -sv -stats=none /home/srss.ivcs/nguyens/training/lab5/counter_if.sv
+QuestaSim vlog 10.7e_2 Compiler 2019.12 Dec  2 2019
+-- Compiling interface counter_if
+
+Top level modules:
+	--none--
+
+} {} {}}

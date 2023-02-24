@@ -1,0 +1,66 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/srss.ivcs/nguyens/training/lab2
+T_opt
+!s110 1675786562
+Vgl8PCkKTFXk4LJ]bVTzRi0
+04 3 4 work top fast 0
+=1-78ac4422b50f-63e27942-89e79-37f09
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OE;O;10.7e_2;67
+Xclasses_sv_unit
+Z2 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+VI1m=L<LeDQMid^ZBAhhoQ0
+r1
+!s85 0
+!i10b 1
+!s100 D<`a<Ng5O;LMzMo``42g:2
+II1m=L<LeDQMid^ZBAhhoQ0
+!i103 1
+S1
+R0
+Z3 w1675786559
+Z4 8classes.sv
+Z5 Fclasses.sv
+L0 9
+Z6 OE;L;10.7e_2;67
+31
+Z7 !s108 1675786562.000000
+Z8 !s107 classes.sv|
+Z9 !s90 -reportprogress|300|classes.sv|
+!i113 0
+Z10 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vtop
+R2
+DXx4 work 15 classes_sv_unit 0 22 I1m=L<LeDQMid^ZBAhhoQ0
+VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 czU=kT9hH_J3dD@B2cP:12
+IQ32Y]:JhJfG8_CRI]U5WD3
+!s105 classes_sv_unit
+S1
+R0
+R3
+R4
+R5
+L0 40
+R6
+31
+R7
+R8
+R9
+!i113 0
+R10
+R1
